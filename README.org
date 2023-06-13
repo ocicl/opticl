@@ -1,0 +1,10 @@
+* opticl
+
+An image processing library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/slyrus/opticl.git   |
+| commit  | f6fc4dc  |
+| systems | opticl |
+|---------+-------------------------------------------|
+
