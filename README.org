@@ -8,4 +8,4 @@ An image processing library for Common Lisp
 | systems | opticl |
 |---------+-------------------------------------------|
 
- 
+  
